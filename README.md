@@ -3,14 +3,14 @@ ArduinoTelnetServer
 
 Based on:
 
-/*                             *
- *  Arduino Telnet Server      *
- *      7 July 2010            *
- *   Basic Arduino I/O via     *
- *  a command line interface   *
- *      by Steve Lentz         *
- *  stlentz[at]gmail[dot]com   *
- *                             *
+                             
+ *  Arduino Telnet Server    
+      7 July 2010            
+   Basic Arduino I/O via     
+  a command line interface   
+      by Steve Lentz         
+  stlentz[at]gmail[dot]com   
+                             
  
  Updated 5 March 2012 to reflect change in EthernetServer class name.
  
